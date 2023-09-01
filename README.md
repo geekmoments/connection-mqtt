@@ -1,6 +1,3 @@
-<a href="https://www.gotoiot.com/">
-    <img src="#" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
-</a>
 
 Connection MQTT
 ===============
@@ -26,7 +23,6 @@ Esta sección es una guía con los pasos escenciales para que puedas poner en ma
 
 Para correr este proyecto es necesario que instales `Docker` y `Docker Compose`. 
 
-En [este artículo](https://www.gotoiot.com/pages/articles/docker_installation_linux/) publicado en nuestra web están los detalles para instalar Docker y Docker Compose en una máquina Linux. Si querés instalar ambas herramientas en una Raspberry Pi podés seguir [este artículo](https://www.gotoiot.com/pages/articles/rpi_docker_installation) de nuestra web que te muestra todos los pasos necesarios.
 
 En caso que quieras instalar las herramientas en otra plataforma o tengas algún incoveniente, podes leer la documentación oficial de [Docker](https://docs.docker.com/get-docker/) y también la de [Docker Compose](https://docs.docker.com/compose/install/).
 
